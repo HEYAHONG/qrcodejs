@@ -1,0 +1,2 @@
+1.添加index-api.html以供远程调用。
+2.调用方法为 index-api.html?待转换的字符串 。
